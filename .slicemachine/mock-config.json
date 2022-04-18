@@ -1,0 +1,19 @@
+{
+  "_cts": {
+    "character": {
+      "biography": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "backgroundStory": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    },
+    "flags": {}
+  }
+}

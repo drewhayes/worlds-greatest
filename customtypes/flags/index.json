@@ -1,0 +1,19 @@
+{
+  "id": "flags",
+  "label": "Game Flags",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "isGameReady": {
+        "type": "Boolean",
+        "config": {
+          "label": "Is Game Ready",
+          "default_value": false,
+          "placeholder_true": "true",
+          "placeholder_false": "false"
+        }
+      }
+    }
+  }
+}

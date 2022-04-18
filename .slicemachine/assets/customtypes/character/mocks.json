@@ -1,0 +1,30 @@
+{
+  "id": "f914103c-e920-438d-af2d-94e7fd644e6d",
+  "uid": "facilis-quibusdam-placeat",
+  "type": "character",
+  "data": {
+    "name": "maximize visionary systems",
+    "subtitle": [
+      {
+        "type": "paragraph",
+        "text": "Lorem laboris veniam duis velit anim cillum deserunt Lorem occaecat ex nulla excepteur ea.",
+        "spans": []
+      }
+    ],
+    "team": "Detective",
+    "biography": [
+      {
+        "type": "paragraph",
+        "text": "Sint anim exercitation id deserunt ad eiusmod minim minim proident sunt consequat velit ad cillum.",
+        "spans": []
+      }
+    ],
+    "backgroundStory": [
+      {
+        "type": "paragraph",
+        "text": "Duis in culpa officia. Adipisicing amet esse duis ex. Cillum non do velit sint consequat anim.",
+        "spans": []
+      }
+    ]
+  }
+}
