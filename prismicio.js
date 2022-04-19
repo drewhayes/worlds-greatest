@@ -21,6 +21,7 @@ export function linkResolver(doc) {
 export function createClient(config) {
     const client = prismic.createClient(endpoint, {
         ...config,
+        accessToken: process.env.NEXT_PUBLIC_PRISMIC_ACCESS_TOKEN
     })
 
     enableAutoPreviews({
