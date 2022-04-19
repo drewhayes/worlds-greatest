@@ -91,7 +91,8 @@ export async function getStaticProps({previewData, params}) {
         props: {
             character:  character.data,
             flags:      flags.data
-        }
+        },
+        revalidate: 10,
     }
 }
 
