@@ -13,23 +13,23 @@
     }
 
     h1 {
-        @apply text-4xl pb-4;
+        @apply md:text-4xl text-2xl pb-4;
     }
 
     h2 {
-        @apply text-3xl pb-2 pt-4;
+        @apply md:text-3xl text-xl pb-2 pt-4;
     }
 
     h3 {
-        @apply text-2xl pb-2 pt-4;
+        @apply md:text-2xl text-lg pb-2 pt-4;
     }
 
     h4 {
-        @apply text-xl pb-2 pt-4;
+        @apply md:text-xl text-base pb-2 pt-4;
     }
 
     h5 {
-        @apply text-lg pb-2 pt-4;
+        @apply md:text-lg text-base pb-2 pt-4;
     }
 
     p {

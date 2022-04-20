@@ -8,12 +8,12 @@ export default function Character({character, flags}) {
     if(!flags.isGameReady)
     {
         return (
-            <div className="flex flex-col justify-center items-center w-screen min-h-screen bg-gray-200">
-                <div className="bg-white rounded-lg p-8 shadow-lg text-center space-y-5">
+            <div className="flex flex-col justify-center items-center w-screen min-h-screen bg-gray-200 p-5">
+                <div className="bg-white rounded-lg max-w-sm w-full p-5 shadow-lg text-center space-y-5">
                     <FontAwesomeIcon icon={faUserSecret} className="text-teal text-8xl" />
 
                     <h1>{character.name}</h1>
-                    <b className="animate-pulse rounded-full bg-teal text-white py-2 px-4">Please wait. The game will start soon...</b>
+                    <b className="animate-pulse rounded-full bg-teal text-white py-2 px-4 text-sm">The game will start soon.</b>
                 </div>
             </div>
         )
