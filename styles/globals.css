@@ -40,6 +40,18 @@
         @apply w-full bg-gray-700 text-white rounded-xl p-4 whitespace-pre-wrap;
     }
 
+    ol, ul {
+        @apply space-y-1 indent-1 pl-5;
+    }
+
+    ul li {
+        @apply marker:text-gray-800 list-disc;
+    }
+
+    ol li {
+        @apply marker:text-gray-800 list-decimal;
+    }
+
     .gradient-detective {
         @apply bg-gradient-to-tr from-blue-green to-davys-gray;
     }

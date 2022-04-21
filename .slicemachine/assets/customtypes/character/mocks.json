@@ -1,28 +1,29 @@
 {
-  "id": "f914103c-e920-438d-af2d-94e7fd644e6d",
-  "uid": "facilis-quibusdam-placeat",
+  "id": "b0316090-4743-4607-a36f-b2e4b0a79ee6",
+  "uid": "reprehenderit-mollitia-minima",
   "type": "character",
   "data": {
-    "name": "maximize visionary systems",
+    "name": "repurpose plug-and-play vortals",
     "subtitle": [
       {
         "type": "paragraph",
-        "text": "Lorem laboris veniam duis velit anim cillum deserunt Lorem occaecat ex nulla excepteur ea.",
+        "text": "Irure esse ut irure quis ipsum voluptate esse qui officia adipisicing laboris reprehenderit amet commodo. Adipisicing ipsum elit sit excepteur Lorem esse pariatur sit sunt aute tempor. Velit Lorem velit incididunt nulla id velit nulla pariatur.",
         "spans": []
       }
     ],
+    "isArrested": true,
     "team": "Detective",
     "biography": [
       {
         "type": "paragraph",
-        "text": "Sint anim exercitation id deserunt ad eiusmod minim minim proident sunt consequat velit ad cillum.",
+        "text": "Tempor magna aliquip et nisi non elit do laboris laboris voluptate aliquip consequat. Ut pariatur magna esse reprehenderit officia sint et sint incididunt reprehenderit eiusmod veniam exercitation.",
         "spans": []
       }
     ],
     "backgroundStory": [
       {
         "type": "paragraph",
-        "text": "Duis in culpa officia. Adipisicing amet esse duis ex. Cillum non do velit sint consequat anim.",
+        "text": "Aliquip labore ut ad ex eiusmod quis id ut eu sint sit sunt reprehenderit. Aute ex est aliquip ipsum aute do aliqua duis aute eu officia.",
         "spans": []
       }
     ]
